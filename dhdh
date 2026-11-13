@@ -1,0 +1,1314 @@
+```html
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>مؤسسة ركن الضيافة | تأجير لوازم الحفلات والمناسبات بالشرقية</title>
+
+<meta name="description" content="مؤسسة ركن الضيافة لتأجير لوازم الحفلات والمناسبات في الدمام والخبر والظهران والمنطقة الشرقية. تأجير خيام أوروبية ومكيفات صحراوية وفريون ومراوح وكراسي ملكي وVIP ومخمل وطاولات طعام وكوشات أفراح وعقود إنارة وزل ودفايات غاز هرمية، وتجهيز وتنظيم الحفلات والأعراس.">
+
+<meta name="keywords" content="مؤسسة ركن الضيافة, تأجير لوازم حفلات ومناسبات, تأجير مستلزمات حفلات, تأجير كراسي ملكي, تأجير كراسي VIP, تأجير كراسي مخمل, تأجير كراسي جلد أبيض, تأجير كراسي شفاف, تأجير طاولات طعام, تأجير طاولات قزاز, تأجير طاولات دائرية, تأجير خيام أوروبية, تأجير مكيفات صحراوية, تأجير مكيفات فريون, تأجير مراوح, تأجير كوشات أفراح, تأجير عقود إنارة, تأجير زل, تأجير دفايات غاز هرمية, تجهيز حفلات الدمام, تنظيم مناسبات الخبر, تأجير لوازم أفراح المنطقة الشرقية">
+
+<link rel="canonical" href="https://ahmedno22.store/">
+
+<meta name="robots" content="index, follow, max-image-preview:large">
+
+<meta name="theme-color" content="#263c32">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="مؤسسة ركن الضيافة لتأجير لوازم الحفلات والمناسبات">
+<meta property="og:description" content="كل مستلزمات مناسبتك في مكان واحد. تأجير وتجهيز وتنظيم الحفلات والأعراس في المنطقة الشرقية.">
+<meta property="og:url" content="https://ahmedno22.store/">
+<meta property="og:locale" content="ar_SA">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Alexandria:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@type":"LocalBusiness",
+ "name":"مؤسسة ركن الضيافة لتأجير لوازم الحفلات والمناسبات",
+ "url":"https://ahmedno22.store/",
+ "telephone":"+966549156321",
+ "description":"مؤسسة متخصصة في تأجير لوازم الحفلات والمناسبات وتجهيز وتنظيم الأعراس والمناسبات الخاصة والعامة.",
+ "priceRange":"$$",
+ "address":{
+   "@type":"PostalAddress",
+   "addressRegion":"المنطقة الشرقية",
+   "addressCountry":"SA"
+ },
+ "areaServed":[
+   "الدمام",
+   "الخبر",
+   "الظهران",
+   "القطيف",
+   "الجبيل",
+   "سيهات",
+   "الأحساء",
+   "بقيق"
+ ],
+ "contactPoint":{
+   "@type":"ContactPoint",
+   "telephone":"+966549156321",
+   "contactType":"customer service",
+   "availableLanguage":"Arabic"
+ },
+ "sameAs":[
+   "https://wa.me/966549156321"
+ ]
+}
+</script>
+
+<style>
+:root{
+--green:#263c32;
+--green2:#365746;
+--gold:#c4a36a;
+--gold2:#e1c795;
+--cream:#f7f4ec;
+--white:#fff;
+--ink:#28332c;
+--muted:#737a72;
+--border:#e8e1d3;
+}
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+html{
+scroll-behavior:smooth;
+scroll-padding-top:85px;
+}
+
+body{
+font-family:'Cairo',sans-serif;
+background:var(--cream);
+color:var(--ink);
+line-height:1.9;
+}
+
+a{
+text-decoration:none;
+color:inherit;
+}
+
+img{
+max-width:100%;
+}
+
+button{
+font-family:inherit;
+}
+
+.container{
+width:min(1160px,92%);
+margin:auto;
+}
+
+.topbar{
+background:#1d3027;
+color:#e9e1d1;
+font-size:13px;
+padding:7px 0;
+}
+
+.topbar .container{
+display:flex;
+justify-content:space-between;
+align-items:center;
+gap:10px;
+}
+
+header{
+background:var(--white);
+position:sticky;
+top:0;
+z-index:100;
+box-shadow:0 3px 18px rgba(0,0,0,.06);
+}
+
+.header-inner{
+min-height:82px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+gap:20px;
+}
+
+.brand{
+display:flex;
+align-items:center;
+gap:12px;
+}
+
+.brand-icon{
+width:49px;
+height:49px;
+background:var(--green);
+color:var(--gold2);
+border-radius:15px 15px 15px 4px;
+display:grid;
+place-items:center;
+font-size:25px;
+font-weight:800;
+}
+
+.brand-name{
+font-family:'Alexandria',sans-serif;
+font-size:19px;
+font-weight:800;
+color:var(--green);
+line-height:1.5;
+}
+
+.brand-name small{
+display:block;
+font-family:'Cairo',sans-serif;
+font-size:11px;
+font-weight:500;
+color:var(--muted);
+}
+
+.menu{
+display:flex;
+gap:24px;
+align-items:center;
+font-size:14px;
+font-weight:700;
+}
+
+.menu a{
+transition:.2s;
+}
+
+.menu a:hover{
+color:var(--gold);
+}
+
+.header-contact{
+background:var(--green);
+color:white;
+padding:10px 19px;
+border-radius:6px;
+font-size:13px;
+font-weight:700;
+}
+
+.hero{
+position:relative;
+min-height:590px;
+display:flex;
+align-items:center;
+background:
+linear-gradient(90deg,rgba(22,40,31,.66),rgba(22,40,31,.94)),
+url('https://i.postimg.cc/bNR9Yvwq/9580abe9-ba93-4ff2-b591-44be99742330.jpg') center/cover;
+color:white;
+overflow:hidden;
+}
+
+.hero-content{
+position:relative;
+z-index:2;
+max-width:750px;
+padding:85px 0;
+}
+
+.hero-label{
+display:inline-block;
+border:1px solid var(--gold);
+color:var(--gold2);
+padding:6px 18px;
+border-radius:30px;
+font-size:13px;
+margin-bottom:23px;
+}
+
+.hero h1{
+font-family:'Alexandria',sans-serif;
+font-size:clamp(30px,5vw,52px);
+line-height:1.5;
+font-weight:800;
+}
+
+.hero h1 span{
+color:var(--gold2);
+}
+
+.hero p{
+font-size:17px;
+color:#e7e9e3;
+max-width:660px;
+margin:20px 0 30px;
+}
+
+.actions{
+display:flex;
+flex-wrap:wrap;
+gap:13px;
+}
+
+.btn{
+display:inline-flex;
+justify-content:center;
+align-items:center;
+padding:12px 26px;
+border-radius:5px;
+font-weight:800;
+font-size:14px;
+transition:.25s;
+}
+
+.btn-gold{
+background:var(--gold);
+color:#24382d;
+}
+
+.btn-gold:hover{
+background:var(--gold2);
+transform:translateY(-3px);
+}
+
+.btn-outline{
+border:1px solid rgba(255,255,255,.7);
+color:white;
+}
+
+.btn-outline:hover{
+background:white;
+color:var(--green);
+}
+
+.features{
+position:relative;
+margin-top:-35px;
+z-index:5;
+}
+
+.feature-grid{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+background:white;
+border-radius:10px;
+box-shadow:0 12px 35px rgba(0,0,0,.08);
+padding:25px 10px;
+}
+
+.feature{
+text-align:center;
+padding:10px;
+border-left:1px solid var(--border);
+}
+
+.feature:last-child{
+border-left:0;
+}
+
+.feature-icon{
+font-size:28px;
+color:var(--gold);
+margin-bottom:5px;
+}
+
+.feature strong{
+display:block;
+color:var(--green);
+font-size:14px;
+}
+
+.feature small{
+font-size:11px;
+color:var(--muted);
+}
+
+.section{
+padding:85px 0;
+}
+
+.section-heading{
+margin-bottom:40px;
+}
+
+.section-heading.center{
+text-align:center;
+}
+
+.section-heading .overline{
+color:#a5844e;
+font-weight:800;
+font-size:12px;
+letter-spacing:1px;
+}
+
+.section-heading h2{
+font-family:'Alexandria',sans-serif;
+font-size:clamp(23px,4vw,34px);
+color:var(--green);
+margin:7px 0 10px;
+}
+
+.section-heading p{
+max-width:700px;
+color:var(--muted);
+font-size:14px;
+}
+
+.section-heading.center p{
+margin:auto;
+}
+
+.section-heading:after{
+content:"";
+display:block;
+width:65px;
+height:3px;
+background:var(--gold);
+margin-top:16px;
+}
+
+.section-heading.center:after{
+margin:16px auto 0;
+}
+
+.intro-grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:45px;
+align-items:center;
+}
+
+.intro-image{
+height:390px;
+overflow:hidden;
+border-radius:12px;
+position:relative;
+}
+
+.intro-image img{
+width:100%;
+height:100%;
+object-fit:cover;
+}
+
+.intro-image:after{
+content:"";
+position:absolute;
+inset:0;
+border:10px solid rgba(255,255,255,.14);
+pointer-events:none;
+}
+
+.intro-text h2{
+font-family:'Alexandria',sans-serif;
+font-size:28px;
+color:var(--green);
+margin-bottom:17px;
+}
+
+.intro-text p{
+color:var(--muted);
+font-size:14px;
+margin-bottom:14px;
+}
+
+.intro-list{
+margin-top:20px;
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:10px;
+}
+
+.intro-list span{
+font-size:13px;
+font-weight:700;
+color:var(--green);
+}
+
+.intro-list span:before{
+content:"✓";
+color:var(--gold);
+margin-left:8px;
+}
+
+.services-section{
+background:#eeeae0;
+}
+
+.service-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:23px;
+}
+
+.service-card{
+background:white;
+border-radius:10px;
+overflow:hidden;
+box-shadow:0 5px 20px rgba(0,0,0,.04);
+transition:transform .25s,box-shadow .25s;
+}
+
+.service-card:hover{
+transform:translateY(-6px);
+box-shadow:0 14px 30px rgba(0,0,0,.1);
+}
+
+.service-card img{
+width:100%;
+height:220px;
+object-fit:cover;
+display:block;
+background:#e5e1d8;
+}
+
+.service-content{
+padding:22px;
+}
+
+.service-content h3{
+font-family:'Alexandria',sans-serif;
+color:var(--green);
+font-size:18px;
+margin-bottom:12px;
+}
+
+.service-content p{
+font-size:12px;
+color:var(--muted);
+margin-bottom:15px;
+}
+
+.service-items{
+display:flex;
+flex-wrap:wrap;
+gap:7px;
+}
+
+.service-items span{
+background:#f5f2ea;
+border:1px solid #eee7d8;
+padding:5px 10px;
+border-radius:4px;
+font-size:11px;
+color:#425448;
+font-weight:700;
+}
+
+.service-link{
+display:inline-block;
+margin-top:18px;
+font-size:12px;
+color:#927443;
+font-weight:800;
+border-bottom:1px solid var(--gold);
+}
+
+.why{
+background:var(--green);
+color:white;
+}
+
+.why .section-heading h2{
+color:var(--gold2);
+}
+
+.why .section-heading p{
+color:#d3dcd4;
+}
+
+.why-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:25px;
+}
+
+.why-card{
+border:1px solid rgba(255,255,255,.16);
+padding:27px;
+border-radius:8px;
+}
+
+.why-card b{
+font-family:'Alexandria',sans-serif;
+color:var(--gold2);
+font-size:18px;
+display:block;
+margin-bottom:8px;
+}
+
+.why-card p{
+font-size:13px;
+color:#d3dcd4;
+}
+
+.gallery-section{
+background:#fff;
+}
+
+.gallery{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:13px;
+}
+
+.gallery a{
+height:230px;
+overflow:hidden;
+border-radius:8px;
+background:#eee;
+}
+
+.gallery img{
+width:100%;
+height:100%;
+object-fit:cover;
+transition:transform .4s;
+}
+
+.gallery a:hover img{
+transform:scale(1.07);
+}
+
+.locations{
+background:#eeeae0;
+}
+
+.city-grid{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+gap:13px;
+}
+
+.city{
+padding:12px 24px;
+border:1px solid #d6c39f;
+background:white;
+color:var(--green);
+border-radius:5px;
+font-weight:800;
+font-size:14px;
+}
+
+.city:hover{
+background:var(--green);
+color:white;
+}
+
+.contact-section{
+background:
+linear-gradient(rgba(30,49,39,.95),rgba(30,49,39,.95)),
+url('https://i.postimg.cc/6pjVR1Zf/42380e09-863e-4581-950a-8529a7b4102f.jpg') center/cover;
+color:white;
+text-align:center;
+}
+
+.contact-section h2{
+font-family:'Alexandria',sans-serif;
+font-size:clamp(25px,4vw,36px);
+color:var(--gold2);
+margin-bottom:13px;
+}
+
+.contact-section p{
+color:#e0e5df;
+font-size:14px;
+margin-bottom:25px;
+}
+
+.contact-number{
+direction:ltr;
+display:inline-block;
+font-family:'Alexandria',sans-serif;
+font-size:27px;
+color:white;
+margin-top:20px;
+}
+
+footer{
+background:#18291f;
+color:#c5cec6;
+padding:35px 0 95px;
+font-size:12px;
+}
+
+.footer-grid{
+display:grid;
+grid-template-columns:1.5fr 1fr 1fr;
+gap:35px;
+}
+
+footer h3{
+color:var(--gold2);
+font-size:17px;
+margin-bottom:12px;
+}
+
+footer p{
+margin-bottom:10px;
+}
+
+.footer-links{
+display:flex;
+flex-direction:column;
+gap:8px;
+}
+
+.footer-links a:hover{
+color:var(--gold2);
+}
+
+.copyright{
+text-align:center;
+border-top:1px solid rgba(255,255,255,.12);
+margin-top:25px;
+padding-top:20px;
+}
+
+.floating{
+position:fixed;
+bottom:20px;
+z-index:200;
+width:57px;
+height:57px;
+border-radius:50%;
+box-shadow:0 5px 15px rgba(0,0,0,.25);
+display:grid;
+place-items:center;
+transition:.2s;
+}
+
+.floating:hover{
+transform:scale(1.1);
+}
+
+.floating img{
+width:100%;
+height:100%;
+object-fit:contain;
+border-radius:50%;
+}
+
+.call-float{right:18px}
+.wa-float{left:18px}
+
+@media(max-width:900px){
+.menu{gap:12px;font-size:12px}
+.header-contact{display:none}
+.service-grid{grid-template-columns:repeat(2,1fr)}
+.gallery{grid-template-columns:repeat(3,1fr)}
+}
+
+@media(max-width:650px){
+.topbar .container{
+justify-content:center;
+text-align:center;
+}
+.topbar .container span:last-child{
+display:none;
+}
+.header-inner{
+min-height:72px;
+}
+.brand-name{
+font-size:15px;
+}
+.brand-icon{
+width:42px;
+height:42px;
+}
+.menu{
+display:none;
+}
+.hero{
+min-height:550px;
+}
+.hero-content{
+padding:65px 0 90px;
+}
+.hero p{
+font-size:14px;
+}
+.feature-grid{
+grid-template-columns:repeat(2,1fr);
+}
+.feature:nth-child(2){
+border-left:0;
+}
+.feature:nth-child(1),
+.feature:nth-child(2){
+border-bottom:1px solid var(--border);
+}
+.section{
+padding:60px 0;
+}
+.intro-grid{
+grid-template-columns:1fr;
+gap:25px;
+}
+.intro-image{
+height:280px;
+}
+.service-grid{
+grid-template-columns:1fr;
+gap:18px;
+}
+.service-card img{
+height:230px;
+}
+.why-grid{
+grid-template-columns:1fr;
+}
+.gallery{
+grid-template-columns:repeat(2,1fr);
+gap:9px;
+}
+.gallery a{
+height:180px;
+}
+.footer-grid{
+grid-template-columns:1fr;
+gap:20px;
+}
+.floating{
+width:52px;
+height:52px;
+}
+}
+
+@media(prefers-reduced-motion:reduce){
+html{scroll-behavior:auto}
+*{transition:none!important}
+}
+</style>
+</head>
+
+<body>
+
+<div class="topbar">
+<div class="container">
+<span>مؤسسة ركن الضيافة | لتأجير لوازم الحفلات والمناسبات</span>
+<span>نخدم الدمام والخبر وجميع المنطقة الشرقية</span>
+</div>
+</div>
+
+<header>
+<div class="container header-inner">
+
+<a href="#home" class="brand">
+<span class="brand-icon">ر</span>
+<span class="brand-name">
+مؤسسة ركن الضيافة
+<small>لتأجير لوازم الحفلات والمناسبات</small>
+</span>
+</a>
+
+<nav class="menu">
+<a href="#home">الرئيسية</a>
+<a href="#about">عن المؤسسة</a>
+<a href="#services">خدماتنا</a>
+<a href="#gallery">معرض الصور</a>
+<a href="#locations">مناطق الخدمة</a>
+<a href="#contact">اتصل بنا</a>
+</nav>
+
+<a class="header-contact" href="https://wa.me/966549156321" target="_blank" rel="noopener">
+اطلب عبر واتساب
+</a>
+
+</div>
+</header>
+
+<main>
+
+<section class="hero" id="home">
+<div class="container">
+<div class="hero-content">
+
+<span class="hero-label">ضيافتكم تبدأ من هنا</span>
+
+<h1>
+مؤسسة ركن الضيافة
+<br>
+<span>كل ما تحتاجه لمناسبتك</span>
+</h1>
+
+<p>
+نقدم خدمات تأجير لوازم الحفلات والمناسبات والأعراس، من الكراسي والطاولات والخيام والمكيفات إلى الكوشات والإنارة والزل والدفايات. خيارات متنوعة لتجهيز مناسبتك في المنطقة الشرقية.
+</p>
+
+<div class="actions">
+<a class="btn btn-gold" href="https://wa.me/966549156321?text=السلام%20عليكم،%20أرغب%20بالاستفسار%20عن%20خدمات%20التأجير" target="_blank" rel="noopener">
+تواصل معنا الآن
+</a>
+
+<a class="btn btn-outline" href="#services">
+اكتشف خدماتنا
+</a>
+</div>
+
+</div>
+</div>
+</section>
+
+<div class="features">
+<div class="container">
+<div class="feature-grid">
+
+<div class="feature">
+<div class="feature-icon">✦</div>
+<strong>مستلزمات متنوعة</strong>
+<small>خيارات متعددة للمناسبات</small>
+</div>
+
+<div class="feature">
+<div class="feature-icon">⌂</div>
+<strong>تجهيز المناسبات</strong>
+<small>مستلزمات وتجهيزات متكاملة</small>
+</div>
+
+<div class="feature">
+<div class="feature-icon">❖</div>
+<strong>خدمات التأجير</strong>
+<small>مختلف أنواع المستلزمات</small>
+</div>
+
+<div class="feature">
+<div class="feature-icon">◈</div>
+<strong>المنطقة الشرقية</strong>
+<small>خدمة مدن المنطقة الشرقية</small>
+</div>
+
+</div>
+</div>
+</div>
+
+<section class="section" id="about">
+<div class="container">
+
+<div class="intro-grid">
+
+<div class="intro-image">
+<img src="https://i.postimg.cc/6pjVR1Zf/42380e09-863e-4581-950a-8529a7b4102f.jpg" alt="تجهيز لوازم الحفلات والمناسبات من مؤسسة ركن الضيافة" width="700" height="500" fetchpriority="high">
+</div>
+
+<div class="intro-text">
+<div class="section-heading">
+<span class="overline">من نحن</span>
+<h2>ركن الضيافة لخدمات الحفلات والمناسبات</h2>
+</div>
+
+<p>
+مؤسسة ركن الضيافة متخصصة في تأجير لوازم الحفلات والمناسبات، ونوفر تشكيلة من مستلزمات الأفراح والاجتماعات والمناسبات العائلية والخاصة.
+</p>
+
+<p>
+نهتم بتوفير مستلزمات متنوعة تناسب احتياجات المناسبات المختلفة، بداية من الخيام والتبريد وصولاً إلى الطاولات والكراسي والكوشات والإنارة والفرش.
+</p>
+
+<div class="intro-list">
+<span>تأجير الكراسي والطاولات</span>
+<span>تأجير الخيام والمكيفات</span>
+<span>تأجير الكوشات والإنارة</span>
+<span>تجهيز وتنظيم المناسبات</span>
+<span>تأجير مستلزمات الشتاء</span>
+<span>تأجير الزل والفرشات</span>
+</div>
+
+</div>
+</div>
+</div>
+</section>
+
+<section class="section services-section" id="services">
+<div class="container">
+
+<div class="section-heading center">
+<span class="overline">خدماتنا ومنتجاتنا</span>
+<h2>تأجير جميع لوازم الحفلات والمناسبات</h2>
+<p>
+تعرف على أقسام التأجير والتجهيز المتوفرة لدينا، واختر المستلزمات المناسبة لاحتياجات مناسبتك.
+</p>
+</div>
+
+<div class="service-grid" id="serviceGrid"></div>
+
+</div>
+</section>
+
+<section class="section why">
+<div class="container">
+
+<div class="section-heading center">
+<span class="overline">لماذا ركن الضيافة؟</span>
+<h2>اهتمام بالتفاصيل لتجهيز مناسبتك</h2>
+<p>نوفر مجموعة من الخدمات والمستلزمات التي تساعدك على تجهيز مختلف أنواع المناسبات.</p>
+</div>
+
+<div class="why-grid">
+
+<div class="why-card">
+<b>تنوع مستلزمات التأجير</b>
+<p>نوفر أصنافاً متنوعة من الكراسي والطاولات والخيام والمكيفات والفرش ومستلزمات المناسبات.</p>
+</div>
+
+<div class="why-card">
+<b>خدمات متعددة للمناسبات</b>
+<p>تأجير مستلزمات حفلات الزواج والأعراس والمناسبات العائلية والاجتماعات والاحتفالات.</p>
+</div>
+
+<div class="why-card">
+<b>تجهيز حسب احتياجك</b>
+<p>يمكنك التواصل معنا لتحديد نوع المستلزمات والكميات المطلوبة وتفاصيل المناسبة.</p>
+</div>
+
+</div>
+</div>
+</section>
+
+<section class="section gallery-section" id="gallery">
+<div class="container">
+
+<div class="section-heading center">
+<span class="overline">معرض الصور</span>
+<h2>صور مستلزمات الحفلات والمناسبات</h2>
+<p>مجموعة من الصور الخاصة بمستلزمات وتجهيزات الحفلات والأعراس.</p>
+</div>
+
+<div class="gallery" id="galleryGrid"></div>
+
+</div>
+</section>
+
+<section class="section locations" id="locations">
+<div class="container">
+
+<div class="section-heading center">
+<span class="overline">نطاق الخدمة</span>
+<h2>مناطق تغطية مؤسسة ركن الضيافة</h2>
+<p>
+خدمات تأجير لوازم الحفلات والمناسبات في مدن المنطقة الشرقية.
+</p>
+</div>
+
+<div class="city-grid">
+<span class="city">الدمام</span>
+<span class="city">الخبر</span>
+<span class="city">الظهران</span>
+<span class="city">القطيف</span>
+<span class="city">الجبيل</span>
+<span class="city">سيهات</span>
+<span class="city">الأحساء</span>
+<span class="city">بقيق</span>
+<span class="city">الفيصلية</span>
+</div>
+
+</div>
+</section>
+
+<section class="section contact-section" id="contact">
+<div class="container">
+
+<h2>هل تخطط لمناسبة قريبة؟</h2>
+
+<p>
+تواصل مع مؤسسة ركن الضيافة للاستفسار عن تأجير مستلزمات الحفلات والمناسبات.
+</p>
+
+<div class="actions" style="justify-content:center">
+<a class="btn btn-gold" href="https://wa.me/966549156321?text=السلام%20عليكم،%20أرغب%20في%20طلب%20مستلزمات%20لمناسبتي" target="_blank" rel="noopener">
+راسلنا عبر واتساب
+</a>
+
+<a class="btn btn-outline" href="tel:0549156321">
+اتصل بنا
+</a>
+</div>
+
+<a class="contact-number" href="tel:0549156321">0549156321</a>
+
+</div>
+</section>
+
+</main>
+
+<footer>
+<div class="container">
+
+<div class="footer-grid">
+
+<div>
+<h3>مؤسسة ركن الضيافة</h3>
+<p>
+متخصصون في تأجير لوازم الحفلات والمناسبات والأعراس، وتوفير مختلف مستلزمات التجهيز والضيافة في المنطقة الشرقية.
+</p>
+</div>
+
+<div>
+<h3>روابط الموقع</h3>
+<div class="footer-links">
+<a href="#home">الرئيسية</a>
+<a href="#about">عن المؤسسة</a>
+<a href="#services">خدمات التأجير</a>
+<a href="#gallery">معرض الصور</a>
+<a href="#locations">مناطق الخدمة</a>
+</div>
+</div>
+
+<div>
+<h3>تواصل معنا</h3>
+<div class="footer-links">
+<a href="tel:0549156321">0549156321</a>
+<a href="https://wa.me/966549156321" target="_blank" rel="noopener">واتساب المؤسسة</a>
+</div>
+</div>
+
+</div>
+
+<div class="copyright">
+© 2026 مؤسسة ركن الضيافة لتأجير لوازم الحفلات والمناسبات - جميع الحقوق محفوظة
+<br>
+ahmedno22.store
+</div>
+
+</div>
+</footer>
+
+<a class="floating call-float" href="tel:0549156321" aria-label="اتصل بمؤسسة ركن الضيافة">
+<img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" alt="اتصال" width="57" height="57">
+</a>
+
+<a class="floating wa-float" href="https://wa.me/966549156321" target="_blank" rel="noopener" aria-label="واتساب مؤسسة ركن الضيافة">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="واتساب" width="57" height="57">
+</a>
+
+<script>
+
+const photos = [
+
+'https://i.postimg.cc/bNR9Yvwq/9580abe9-ba93-4ff2-b591-44be99742330.jpg',
+
+'https://i.postimg.cc/6pjVR1Zf/42380e09-863e-4581-950a-8529a7b4102f.jpg',
+
+'https://i.postimg.cc/hGXL0bbt/c853fb0f-7837-4b2e-bd43-eaabff62232e.jpg',
+
+'https://i.postimg.cc/25g49b27/3ec06b2d-3c93-4468-9e4b-cd1a611ac8f9.jpg',
+
+'https://i.postimg.cc/tJNWgryY/71d5fc47-4984-44de-af6b-804acb45f5e4.jpg',
+
+'https://i.postimg.cc/26vb8YMJ/54f193ee-1c3a-4232-8ac2-f06580f904d9.jpg',
+
+'https://i.postimg.cc/J4KyhP66/e8f494e8-fca0-404e-9c4e-ffc619386a8b.jpg',
+
+'https://i.postimg.cc/zGSR1xCf/f5f9bd2b-de23-432e-9350-fc935406308f.jpg',
+
+'https://i.postimg.cc/3Nvdf1rJ/5f42a1ba-12aa-4730-b890-4f2435d19209.jpg',
+
+'https://i.postimg.cc/Vkc7YshT/53db2fc2-fadf-4335-a137-7b570fffc8fb.jpg',
+
+'https://i.postimg.cc/XqzkdQHq/d6a4b499-49d2-43d1-96cf-d24d199e46a4.jpg',
+
+'https://i.postimg.cc/MKnDqJHj/55c17304-1449-4290-97d0-7b4bc52ca93f.jpg',
+
+'https://i.postimg.cc/FK4gyfZT/IMG-5401.jpg',
+
+'https://i.postimg.cc/bJ6xfmjx/IMG-5281.jpg',
+
+'https://i.postimg.cc/8c9LjscB/50ec0208-bd5d-426f-818c-4738d3dfbb75.jpg',
+
+'https://i.postimg.cc/XYMwWZTj/44425f23-5b0d-41b9-8351-34ec9e1903c4.jpg',
+
+'https://i.postimg.cc/PqvswRSm/35030a4f-a265-4ad0-ab70-6313eba0be68.jpg',
+
+'https://i.postimg.cc/RhRjm5Zg/e8807d34-04c6-4fd8-8457-fa2d3d7a1e47.jpg',
+
+'https://i.postimg.cc/3x6zYZ3W/da799bb0-d7c0-4e86-834b-d528fb176d25.jpg',
+
+'https://i.postimg.cc/Pxb7bsYm/88db4259-13c8-49f3-b98c-4f0ec740ebb9.jpg',
+
+'https://i.postimg.cc/FFZq7vh8/27f56559-8ffd-496b-b9f6-571f6edeffc7.jpg',
+
+'https://i.postimg.cc/7L0tD8BN/b2cf503b-677d-486c-96ad-d07af28ca5af.jpg'
+
+];
+
+const services = [
+
+{
+title:'تأجير الخيام وأجهزة التبريد',
+description:'مستلزمات مناسبة للمناسبات الخارجية والجلسات والاحتفالات في مختلف الأوقات.',
+items:[
+'تأجير خيام أوروبية',
+'تأجير مكيفات صحراوية',
+'تأجير مكيفات فريون',
+'تأجير مراوح'
+]
+},
+
+{
+title:'تأجير الكراسي بمختلف الأنواع',
+description:'خيارات متعددة من الكراسي لتنسيق جلسات الضيوف ومجالس المناسبات.',
+items:[
+'تأجير كراسي ملكي',
+'تأجير كراسي VIP',
+'تأجير كراسي مخمل',
+'تأجير كراسي جلد أبيض',
+'تأجير كراسي شفاف'
+]
+},
+
+{
+title:'تأجير طاولات الطعام',
+description:'طاولات متنوعة للاستخدام في حفلات الزواج والعزائم والمناسبات.',
+items:[
+'تأجير طاولات طعام',
+'تأجير طاولات طعام قزاز',
+'تأجير طاولات VIP',
+'تأجير طاولات دائرية',
+'تأجير طاولات مدخل'
+]
+},
+
+{
+title:'تأجير الكوشات والإنارة',
+description:'مستلزمات تنسيق الأفراح ومداخل المناسبات وتجهيز أماكن الاحتفال.',
+items:[
+'تأجير كوشات أفراح',
+'تأجير عقود إنارة',
+'تزيين مداخل',
+'تجهيز مداخل المناسبات'
+]
+},
+
+{
+title:'تأجير الزل والفرشات',
+description:'مستلزمات فرش وتجهيز أرضيات مجالس الحفلات والمناسبات.',
+items:[
+'تأجير زل',
+'تأجير فرشات زل أزرق',
+'فرش مجالس المناسبات'
+]
+},
+
+{
+title:'تأجير الدفايات والتجهيزات الشتوية',
+description:'تجهيزات تساعد على إعداد الجلسات والمناسبات في الأجواء الباردة.',
+items:[
+'تأجير دفايات غاز هرمية',
+'تأجير دفايات غاز هرمية الفيصلية',
+'تجهيز الجلسات الشتوية'
+]
+},
+
+{
+title:'تجهيز الحفلات والمناسبات',
+description:'تجهيز متطلبات الاحتفالات والمناسبات العائلية والخاصة والعامة.',
+items:[
+'تجهيز حفلات',
+'تجهيز مناسبات',
+'تجهيز احتفالات'
+]
+},
+
+{
+title:'تنظيم الأعراس والزواجات',
+description:'خدمات تنظيم وتجهيز مستلزمات مناسبات الزواج والأعراس.',
+items:[
+'تنظيم زواجات',
+'تنظيم أعراس',
+'تجهيز حفلات الزواج'
+]
+},
+
+{
+title:'تأجير الكنب والجلسات',
+description:'تجهيز جلسات الضيافة والمجالس النسائية للمناسبات المختلفة.',
+items:[
+'تأجير كنب نسائي',
+'تجهيز جلسات الضيافة',
+'تأجير مستلزمات المجالس'
+]
+}
+
+];
+
+const serviceGrid = document.getElementById('serviceGrid');
+
+services.forEach((service,index)=>{
+
+const image = photos[(index+2)%photos.length];
+
+const card = document.createElement('article');
+card.className='service-card';
+
+const img = document.createElement('img');
+img.src=image;
+img.alt=service.title+' - مؤسسة ركن الضيافة';
+img.width=600;
+img.height=400;
+img.loading='lazy';
+
+const content=document.createElement('div');
+content.className='service-content';
+
+const title=document.createElement('h3');
+title.textContent=service.title;
+
+const description=document.createElement('p');
+description.textContent=service.description;
+
+const items=document.createElement('div');
+items.className='service-items';
+
+service.items.forEach(item=>{
+const tag=document.createElement('span');
+tag.textContent=item;
+items.appendChild(tag);
+});
+
+const link=document.createElement('a');
+link.className='service-link';
+link.href='https://wa.me/966549156321?text='+encodeURIComponent('السلام عليكم، أرغب بالاستفسار عن '+service.title);
+link.target='_blank';
+link.rel='noopener';
+link.textContent='استفسر عن الخدمة ←';
+
+content.append(title,description,items,link);
+card.append(img,content);
+serviceGrid.appendChild(card);
+
+});
+
+const galleryGrid=document.getElementById('galleryGrid');
+
+photos.forEach((photo,index)=>{
+
+const link=document.createElement('a');
+link.href=photo;
+link.target='_blank';
+link.rel='noopener';
+link.setAttribute('aria-label','مشاهدة صورة من تجهيزات ركن الضيافة');
+
+const img=document.createElement('img');
+img.src=photo;
+img.alt='صور تأجير وتجهيز الحفلات والمناسبات - ركن الضيافة';
+img.width=400;
+img.height=300;
+img.loading='lazy';
+
+link.appendChild(img);
+galleryGrid.appendChild(link);
+
+});
+
+</script>
+
+</body>
+</html>
+```
